@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="db8741c6-b51f-4033-8760-3adc1324d938" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../HashMapDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HashMapDemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WK11D2 Homework/src/main/java/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WK11D2 Homework/src/main/java/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WK11D2 Homework/src/test/java/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WK11D2 Homework/src/test/java/LibraryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -54,7 +51,7 @@
     <session id="2106788037">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.opened" value="2" />
         </counts>
@@ -636,7 +633,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="381" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
