@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db8741c6-b51f-4033-8760-3adc1324d938" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_04/enums_start_point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_04/enums_start_point/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a2a090c5-a382-4059-af0f-6dc02aadd13c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -20,50 +17,36 @@
     </projectState>
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="713871337">
+    <session id="352412677">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="6" />
+          <entry key="java" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1835" />
+          <entry key="dummy" value="19" />
+          <entry key="java" value="460" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1835" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="2106788037">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.1" value="3" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="460" />
+          <entry key="PLAIN_TEXT" value="19" />
         </counts>
       </usages-collector>
     </session>
@@ -71,56 +54,44 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Bus.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LinearSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="e#336#337#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#607#608#0" expanded="true" />
-                <element signature="e#643#644#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="264">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BinarySearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-39">
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/BusTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/LinearSearchTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+            <state relative-caret-position="159">
+              <caret line="19" column="1360" lean-forward="true" selection-start-line="19" selection-start-column="1360" selection-end-line="19" selection-end-column="1360" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#375#376#0" expanded="true" />
-                <element signature="e#427#428#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/BusStop.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/BinarySearchTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-              <folding>
-                <element signature="e#405#406#0" expanded="true" />
-                <element signature="e#438#439#0" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#515#516#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/BusStopTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="102">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#6672#6673#0" expanded="true" />
+                <element signature="e#6753#6754#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -134,14 +105,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>getPassengers</find>
-    </findStrings>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -159,14 +122,14 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="BusLab" />
+              <option name="name" value="AlgorithmsExamples" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="BusLab" />
+                <option name="name" value="AlgorithmsExamples" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
             </list>
@@ -180,7 +143,7 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'BusLab'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'AlgorithmsExamples'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
@@ -190,7 +153,7 @@
                 <option name="name" value="buildDependents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'BusLab'." />
+                <option name="description" value="Displays the sub-projects of root project 'AlgorithmsExamples'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
@@ -200,12 +163,12 @@
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in root project 'BusLab'. [incubating]" />
+                <option name="description" value="Displays the dependent components of components in root project 'AlgorithmsExamples'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'BusLab'." />
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'AlgorithmsExamples'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
@@ -230,7 +193,7 @@
                 <option name="name" value="jar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'BusLab'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'AlgorithmsExamples'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
@@ -240,7 +203,7 @@
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'BusLab'." />
+                <option name="description" value="Displays the tasks runnable from root project 'AlgorithmsExamples'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -260,7 +223,7 @@
                 <option name="name" value="compileJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'BusLab'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'AlgorithmsExamples'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -285,7 +248,7 @@
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'BusLab'." />
+                <option name="description" value="Displays all dependencies declared in root project 'AlgorithmsExamples'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
@@ -310,7 +273,7 @@
                 <option name="name" value="buildNeeded" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'BusLab'." />
+                <option name="description" value="Displays the properties of root project 'AlgorithmsExamples'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
@@ -321,11 +284,11 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6156248544000" />
+        <entry key="$PROJECT_DIR$" value="6156653810000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="982544197" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="2647526068" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2007532874" />
-        <entry key="$PROJECT_DIR$/settings.gradle" value="922560183" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="2440166895" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -344,7 +307,7 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="BusLab" />
+              <option name="name" value="AlgorithmsExamples" />
               <option name="projectBuildClasspath">
                 <list>
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-model-groovy-4.8.jar" />
@@ -440,60 +403,80 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/BusStop.java" />
-        <option value="$PROJECT_DIR$/src/test/java/BusStopTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/BusTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Bus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Search.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SearchTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LinearSearch.java" />
+        <option value="$PROJECT_DIR$/src/test/java/LinearSearchTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BinarySearchTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BinarySearch.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="226" />
+    <option name="x" value="-10" />
+    <option name="y" value="38" />
     <option name="width" value="1280" />
-    <option name="height" value="570" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
+    <option name="height" value="729" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="BusLab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BusLab" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="AlgorithmsExamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsExamples" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="BusLab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BusLab" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="AlgorithmsExamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsExamples" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmsExamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsExamples" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmsExamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsExamples" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmsExamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsExamples" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BusLab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BusLab" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="AlgorithmsExamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsExamples" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="BusLab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BusLab" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="AlgorithmsExamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsExamples" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BusLab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BusLab" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="AlgorithmsExamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsExamples" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="BusLab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BusLab" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="AlgorithmsExamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsExamples" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -502,13 +485,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539090822977" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539251619101" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RunDashboard">
@@ -523,67 +506,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in BusLab_test">
-    <configuration name="All in BusLab_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="BusLab_test" />
+  <component name="RunManager" selected="JUnit.All in AlgorithmsExamples_test">
+    <configuration name="All in AlgorithmsExamples_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmsExamples_test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="BusLab_test" />
+    <configuration name="LinearSearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmsExamples_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BusTest" />
+      <option name="MAIN_CLASS_NAME" value="LinearSearchTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BusTest.pickUpNoPassenger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="BusLab_test" />
+    <configuration name="LinearSearchTest.linearSearchSortedArrayFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmsExamples_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BusTest" />
-      <option name="METHOD_NAME" value="pickUpNoPassenger" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BusTest.pickUpOurWay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="BusLab_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BusTest" />
-      <option name="METHOD_NAME" value="pickUpOurWay" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BusTest.pickUpOurWayNoPassengers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="BusLab_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BusTest" />
-      <option name="METHOD_NAME" value="pickUpOurWayNoPassengers" />
+      <option name="MAIN_CLASS_NAME" value="LinearSearchTest" />
+      <option name="METHOD_NAME" value="linearSearchSortedArrayFalse" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.BusTest" />
-      <item itemvalue="JUnit.BusTest.pickUpOurWay" />
-      <item itemvalue="JUnit.BusTest.pickUpOurWayNoPassengers" />
-      <item itemvalue="JUnit.BusTest.pickUpNoPassenger" />
-      <item itemvalue="JUnit.All in BusLab_test" />
+      <item itemvalue="JUnit.LinearSearchTest" />
+      <item itemvalue="JUnit.LinearSearchTest.linearSearchSortedArrayFalse" />
+      <item itemvalue="JUnit.All in AlgorithmsExamples_test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in BusLab_test" />
-        <item itemvalue="JUnit.BusTest.pickUpNoPassenger" />
-        <item itemvalue="JUnit.BusTest.pickUpOurWayNoPassengers" />
-        <item itemvalue="JUnit.BusTest.pickUpOurWay" />
-        <item itemvalue="JUnit.BusTest" />
+        <item itemvalue="JUnit.All in AlgorithmsExamples_test" />
+        <item itemvalue="JUnit.LinearSearchTest" />
+        <item itemvalue="JUnit.LinearSearchTest.linearSearchSortedArrayFalse" />
       </list>
     </recent_temporary>
   </component>
@@ -592,145 +551,193 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="db8741c6-b51f-4033-8760-3adc1324d938" name="Default Changelist" comment="" />
-      <created>1539086091093</created>
+      <changelist id="a2a090c5-a382-4059-af0f-6dc02aadd13c" name="Default Changelist" comment="" />
+      <created>1539163441703</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1539086091093</updated>
+      <updated>1539163441703</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BusTest - 2018.10.09 at 13h 10m 00s.xml">
-      <configuration name="BusTest" configurationId="JUnit" />
+    <history-entry file="SearchTest - 2018.10.10 at 10h 40m 37s.xml">
+      <configuration name="SearchTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BusTest - 2018.10.09 at 13h 15m 07s.xml">
-      <configuration name="BusTest" configurationId="JUnit" />
+    <history-entry file="SearchTest - 2018.10.10 at 11h 29m 05s.xml">
+      <configuration name="SearchTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BusTest - 2018.10.09 at 13h 18m 49s.xml">
-      <configuration name="BusTest" configurationId="JUnit" />
+    <history-entry file="SearchTest - 2018.10.10 at 11h 29m 38s.xml">
+      <configuration name="SearchTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BusStopTest_addToQueue - 2018.10.09 at 13h 28m 59s.xml">
-      <configuration name="BusStopTest.addToQueue" configurationId="JUnit" />
+    <history-entry file="SearchTest - 2018.10.10 at 11h 30m 39s.xml">
+      <configuration name="SearchTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BusStopTest_addToQueue - 2018.10.09 at 13h 31m 55s.xml">
-      <configuration name="BusStopTest.addToQueue" configurationId="JUnit" />
+    <history-entry file="SearchTest - 2018.10.10 at 11h 32m 17s.xml">
+      <configuration name="SearchTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BusStopTest_addToQueue - 2018.10.09 at 13h 32m 10s.xml">
-      <configuration name="BusStopTest.addToQueue" configurationId="JUnit" />
+    <history-entry file="SearchTest - 2018.10.10 at 14h 50m 12s.xml">
+      <configuration name="SearchTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BusStopTest - 2018.10.09 at 13h 32m 26s.xml">
-      <configuration name="BusStopTest" configurationId="JUnit" />
+    <history-entry file="SearchTest - 2018.10.10 at 14h 50m 34s.xml">
+      <configuration name="SearchTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BusTest_pickUp - 2018.10.09 at 13h 57m 45s.xml">
-      <configuration name="BusTest.pickUp" configurationId="JUnit" />
+    <history-entry file="SearchTest - 2018.10.11 at 09h 03m 23s.xml">
+      <configuration name="SearchTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BusTest - 2018.10.09 at 14h 02m 58s.xml">
-      <configuration name="BusTest" configurationId="JUnit" />
+    <history-entry file="All_in_AlgorithmsExamples_test - 2018.10.11 at 09h 27m 15s.xml">
+      <configuration name="All in AlgorithmsExamples_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BusTest_pickUpOurWay - 2018.10.09 at 14h 10m 48s.xml">
-      <configuration name="BusTest.pickUpOurWay" configurationId="JUnit" />
+    <history-entry file="All_in_AlgorithmsExamples_test - 2018.10.11 at 10h 30m 05s.xml">
+      <configuration name="All in AlgorithmsExamples_test" configurationId="JUnit" />
     </history-entry>
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="226" width="1280" height="570" extended-state="0" />
-    <editor active="true" />
+    <frame x="-10" y="38" width="1280" height="729" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Capture Tool" order="4" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Project Explorer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37947884" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32876712" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="10" weight="0.2733564" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32876712" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.2857143" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Console" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Gradle" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/PersonTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/LinearSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        <state relative-caret-position="264">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        <state relative-caret-position="-39">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/BusStop.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/BinarySearchTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        <state relative-caret-position="102">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#6672#6673#0" expanded="true" />
+            <element signature="e#6753#6754#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BusStopTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/LinearSearchTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="159">
+          <caret line="19" column="1360" lean-forward="true" selection-start-line="19" selection-start-column="1360" selection-end-line="19" selection-end-column="1360" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Bus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BusTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
