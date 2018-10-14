@@ -2,19 +2,22 @@ import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertNotEquals;
 
 public class PlaneTest {
     Plane plane;
+    Plane capacity;
     Person person;
     Airline airline;
 
     @Before
     public void before() {
-        plane = new Plane("BA");
+        plane = new Plane(PlaneType.CESSNA,);
+        capacity = new Plane(PlaneType.CESSNA, "BA");
         person = new Person();
         airline = new Airline();
     }
+
+
 
     @Test
     public void numberOfPassengers() {
@@ -26,5 +29,23 @@ public class PlaneTest {
         plane.addPassenger(person);
         assertEquals(1, plane.getPassengers());
     }
+
+    @Test
+    public void removePassenger() {
+        plane.addPassenger(person);
+        assertEquals(1, plane.getPassengers());
+        plane.removePassenger();
+        assertEquals(0, plane.getPassengers());
+    }
+
+//    public void planeHasAirline() {
+//        assertEquals("BA", Plane.airline());
+//    }
+
+    public void planeHasCapacity() {
+        assertEquals(3, plane.getPlaneCapacity());
+    }
+
+
 
 }
