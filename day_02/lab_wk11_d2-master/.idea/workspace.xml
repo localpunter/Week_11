@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db8741c6-b51f-4033-8760-3adc1324d938" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../hw/Airport/src/main/java/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw/Airport/src/main/java/Plane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw/Airport/src/test/java/FlightTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw/Airport/src/test/java/FlightTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../hw/Airport/src/test/java/PlaneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw/Airport/src/test/java/PlaneTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -690,7 +690,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="378" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49914238" visible="true" weight="0.26171243" />
       <window_info id="Structure" order="1" sideWeight="0.50085765" side_tool="true" weight="0.26171243" />

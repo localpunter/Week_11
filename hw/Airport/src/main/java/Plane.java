@@ -1,15 +1,16 @@
 import java.util.ArrayList;
 
 public class Plane {
-    private PlaneType plane;
+    private PlaneType type;
     private PlaneType capacity;
     private String airline;
     private ArrayList<Person> passengers;
 
 
-    public Plane(PlaneType capacity, String airline) {
+    public Plane(PlaneType type, String airline) {
+        this.type = type;
         this.airline = "BA";
-        this.plane = capacity;
+//        this.plane = capacity;
         this.passengers = new ArrayList<>();
     }
 
@@ -27,12 +28,12 @@ public class Plane {
     }
 
 
-//    public String getAirline() {
-//        return airline.;
-//    }
+    public String getAirline() {
+        return airline;
+    }
 
     public int getPlaneCapacity() {
-        return plane.getCapacity();
+        return this.type.getCapacity();
 
     }
 }

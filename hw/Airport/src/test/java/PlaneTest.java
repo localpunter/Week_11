@@ -11,7 +11,7 @@ public class PlaneTest {
 
     @Before
     public void before() {
-        plane = new Plane(PlaneType.CESSNA,);
+        plane = new Plane(PlaneType.CESSNA, "BA");
         capacity = new Plane(PlaneType.CESSNA, "BA");
         person = new Person();
         airline = new Airline();
@@ -38,12 +38,14 @@ public class PlaneTest {
         assertEquals(0, plane.getPassengers());
     }
 
-//    public void planeHasAirline() {
-//        assertEquals("BA", Plane.airline());
-//    }
+    @Test
+    public void planeHasAirline() {
+        assertEquals("BA", plane.getAirline());
+    }
 
+    @Test
     public void planeHasCapacity() {
-        assertEquals(3, plane.getPlaneCapacity());
+        assertEquals(4, plane.getPlaneCapacity());
     }
 
 
